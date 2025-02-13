@@ -1,0 +1,1 @@
+A basic clone of the Salesforce website UI using only HTML and CSS. This project replicates the design without responsiveness or advanced styling. Ideal for beginners to understand webpage structure and styling. Simple yet effective for frontend practice.
